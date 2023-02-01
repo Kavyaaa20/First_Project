@@ -1,2 +1,8 @@
-Hi learning Git conceptss
+Hi learning Git concepts
 addding some repos
+Topics covered
+init
+push
+pull
+merge
+
