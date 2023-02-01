@@ -1,5 +1,5 @@
 Hi learning Git concept in udemy
-addding some repos
+addding some repostories
 Topics covered
 init
 push
