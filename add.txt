@@ -1,8 +1,9 @@
-Hi learning Git concepts
+Hi learning Git concept in udemy
 addding some repos
 Topics covered
 init
 push
 pull
 merge
-
+Git-Bash 
+Mkdir
