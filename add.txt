@@ -1,2 +1,4 @@
 Hi learning Git conceptss
 addding some repos
+Git-Bash 
+Mkdir
