@@ -1,1 +1,2 @@
-Hi addding some repos
+Hi learning Git conceptss
+addding some repos
